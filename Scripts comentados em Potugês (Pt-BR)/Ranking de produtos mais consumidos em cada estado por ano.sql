@@ -15,31 +15,31 @@ show tables;
 
 desc basecliente;
 /*
-idCliente		int(11)	
-nome			text	
+idCliente			int(11)	
+nome				text	
 cpf				bigint(20)	
-dataNascimento	datetime	
-cidade			text	
-estado			text	
+dataNascimento			datetime	
+cidade				text	
+estado				text	
 cep				text	
 */
 
 desc basevenda;
 /*
-idVenda			int(11)
-loja			int(11)
-dataVenda		datetime
-ValorVendas		double
-quantidadeItem	int(11)
-idCliente		int(11)
-IdProduto		int(11)
+idVenda				int(11)
+loja				int(11)
+dataVenda			datetime
+ValorVendas			double
+quantidadeItem			int(11)
+idCliente			int(11)
+IdProduto			int(11)
 */
 
 desc cervejasbase;
 /*
-idproduto	int(11)
-nome		text
-malt		text
+idproduto			int(11)
+nome				text
+malt				text
 */
 
 
