@@ -1,0 +1,188 @@
+idCliente,nome,cpf,dataNascimento,cidade,estado,cep
+1,"Joana Beltrão Neto",73753401325,"1993-10-13 00:00:00","São Sebastião do Passé",Tocantins,94199-635
+2,"Louise Ribas",20316338077,"1996-07-14 00:00:00",Itaubal,Maranhão,66103-158
+3,"Arthur Henrique Novaes",40364163526,"1960-04-20 00:00:00","Lagoa Formosa",Maranhão,37648-672
+4,"Srta. Célia da Maia",17767508721,"1997-08-25 00:00:00","São José do Bonfim","Mato Grosso do Sul",15556-084
+5,"Carlos Eduardo Nunes Neto",68040290201,"1981-03-14 00:00:00","Lagoa dos Gatos",Amapá,37678-226
+6,"Sara Santana",20853061798,"1954-07-20 00:00:00",Itamaracá,Goiás,36212-981
+7,"Gabriel Geraldes Neto",32493995327,"1987-06-09 00:00:00","Presidente Venceslau","Mato Grosso do Sul",88704-737
+8,"Ígor da Paz",59816882107,"1991-11-18 00:00:00","Pastos Bons","Espírito Santo",37008-925
+9,"Fabrícia Guedes",46039410180,"1972-02-22 00:00:00",Ocara,Paraíba,78184-666
+10,"Maria Clara da Mata",25697383701,"1983-11-27 00:00:00",Ipupiara,"São Paulo",38541-383
+11,"Ofélia Ouriques",10234954218,"1975-07-18 00:00:00",Dracena,Paraná,21759-956
+12,"Vinicius Fontes",4164138310,"1971-05-26 00:00:00","Juazeiro do Piauí",Acre,63462-840
+13,"Luiza Viveiros",60132919371,"1995-02-28 00:00:00","Desterro de Entre Rios",Piauí,80078-211
+14,"Márcia Bulhões Jr.",43022383476,"1992-12-02 00:00:00","Carmo da Cachoeira","Rio Grande do Sul",79020-084
+15,"Kauê Ribeira",82761176427,"1978-11-24 00:00:00",Valparaíso,Paraná,59580-170
+16,"Lavínia Farias Filho",34251172718,"1983-04-25 00:00:00","São Francisco de Itabapoana",Pará,64937-479
+17,"Heitor Brum Filho",20003126517,"1983-08-02 00:00:00","Boa Vista do Tupim",Paraná,40079-050
+18,"Fabiano Araújo",17559909917,"1991-01-22 00:00:00","São Sebastião do Caí",Paraíba,90734-162
+19,"Heitor Barreto",67644925310,"1964-01-01 00:00:00",Cidelândia,"São Paulo",96605-441
+20,"Antonia Nogueira",6591774821,"1984-03-28 00:00:00",Diamante,"Santa Catarina",25989-778
+21,"Ana Sophia Grotas Jr.",61873113037,"1985-10-05 00:00:00",Sulina,Pará,48634-863
+22,"Melissa Velasques",23462268722,"1983-12-12 00:00:00","Neves Paulista",Ceará,81394-724
+23,"Helena Gonçalves",16805786511,"1976-02-12 00:00:00","Nova Roma",Ceará,66025-199
+24,"Feliciano da Gama",77610720094,"1955-08-21 00:00:00",Lajedo,"Santa Catarina",78515-655
+25,"Dr. Lucas Gabriel Castanheira",27036810126,"1962-12-15 00:00:00",Coqueiral,Pará,14015-680
+26,"Dalila Longuinho",86274467706,"1964-11-21 00:00:00",Piracema,Paraná,94006-395
+27,"Srta. Carla Campos",36143233174,"1998-10-24 00:00:00","Riachão das Neves",Bahia,62688-311
+28,"Sra. Aline da Fonseca",21072732152,"1963-09-26 00:00:00",Catuípe,"Rio Grande do Norte",29846-473
+29,"Norberto Fontes",92840278062,"1996-01-02 00:00:00","Alto Parnaíba",Rondônia,93720-954
+30,"João Samuel Bulhões",6559310821,"1999-12-07 00:00:00",Guanambi,"Mato Grosso",88603-605
+31,"Ana Cecília Filgueira",40708724583,"1975-12-11 00:00:00",Manaus,Acre,89545-213
+32,"Sr. Antonella Reis",78952152938,"1954-02-25 00:00:00",Maracaju,"Santa Catarina",80133-348
+33,"Isadora Rebouças Jr.",58068293296,"1988-03-16 00:00:00",Bayeux,"Mato Grosso do Sul",40065-546
+34,"Ana Cecília Rebouças Jr.",2333171496,"1975-09-15 00:00:00",Óleo,Acre,17798-972
+35,"Arthur Gabriel Godinho",75430405615,"1987-08-29 00:00:00",Cidelândia,Tocantins,88348-234
+36,"Davi Miguel Farias",56586604468,"1958-03-15 00:00:00",Silvanópolis,"Distrito Federal",49272-092
+37,"Benjamin Passarinho",26008843309,"1993-12-10 00:00:00",Dionísio,Tocantins,82798-808
+38,"Francisco Garcez Jr.",30585791319,"1960-08-31 00:00:00",Jaguaruana,Bahia,56390-431
+39,"Carlos Eduardo da Costa",86965667852,"2001-01-27 00:00:00","São Pedro da Cipa",Piauí,43725-606
+40,"Levi Brum",50012767350,"1967-07-01 00:00:00",Ibicaraí,"Rio Grande do Norte",76626-416
+41,"Igor da Silva",54030861651,"1966-11-25 00:00:00","Roque Gonzales",Acre,30137-605
+42,"Elisa Quarteira",70053814371,"1957-07-28 00:00:00",Corumbaíba,Tocantins,94917-959
+43,"Dr. Luiz Gustavo Veles",64426553933,"1974-06-04 00:00:00","Neves Paulista","São Paulo",88313-326
+44,"Maria Júlia Braga Filho",72706936230,"1995-11-27 00:00:00",Silvianópolis,Pará,97664-876
+45,"Carolina Neves",14068445683,"1987-02-22 00:00:00","Pedro Laurentino","Mato Grosso",40045-769
+46,"Dr. Stella Pinheira",30733069710,"1967-04-11 00:00:00",Tapiramutá,Alagoas,48165-114
+47,"Dra. Maria Eduarda Nascimento",20051772430,"1993-01-08 00:00:00","Amaral Ferrador","Mato Grosso do Sul",25360-341
+48,"Matheus Goulart Jr.",30662653411,"1984-08-27 00:00:00",Rancharia,Rondônia,76512-148
+49,"Guilherme Porto Jr.",83652516345,"1983-04-30 00:00:00",Chapada,Maranhão,61761-274
+50,"Isabelly Xavier",87147078384,"2001-05-06 00:00:00",Itatim,Sergipe,42174-131
+51,"Sophie Barata Jr.",17453285222,"1975-05-11 00:00:00","Teresina de Goiás",Roraima,31767-060
+52,"Valentina Passarinho",13230478173,"1999-05-26 00:00:00","Nossa Senhora da Glória","Mato Grosso do Sul",01525-043
+53,"Paulo Rios Filho",67806892220,"1973-12-30 00:00:00",Apiacás,Acre,15738-206
+54,"Dr. Maria Júlia Bittencourt",92595603472,"1997-12-17 00:00:00","Santa Maria de Itabira","Rio Grande do Sul",32288-129
+55,"Malu Aparício",58083872245,"1966-08-07 00:00:00",Arvoredo,"Mato Grosso",94484-910
+56,"Luiz Gustavo Moreira",689845964,"1962-10-22 00:00:00",Potiretama,Acre,11934-098
+57,"Dr. Emanuelly Raia",34222544736,"1991-07-07 00:00:00",Lidianópolis,Paraíba,36210-176
+58,"Srta. Vitória Quarteira",72577543802,"1989-01-30 00:00:00",Itacoatiara,Bahia,20505-631
+59,"Dra. Camila Gentil",79430780855,"1988-09-30 00:00:00",Barcelos,"Minas Gerais",56924-802
+60,"Silas Louzada",84476413419,"2001-08-26 00:00:00",Lagoa,"Rio Grande do Sul",96354-370
+61,"Clara Moreira",39667472716,"1993-05-25 00:00:00","São Carlos",Paraíba,53900-981
+62,"Sr. Maria Valentina Gabeira",688185207,"1974-12-13 00:00:00",Uruará,"São Paulo",28426-416
+63,"Benjamin Viana",97584824201,"1965-08-11 00:00:00","Pouso Alegre","Rio Grande do Sul",90708-664
+64,"Sophia Pedroso",43169748793,"1987-07-01 00:00:00",Rosana,"Espírito Santo",29030-092
+65,"Pérola Viveiros",85371294249,"1990-02-24 00:00:00","Dona Francisca","Rio de Janeiro",83090-833
+66,"Elisa Ouriques",25856417163,"1959-03-22 00:00:00",Analândia,Rondônia,30704-312
+67,"Lorena da Veiga",71301239481,"1981-02-17 00:00:00",Jaguaquara,Paraná,61613-908
+68,"Maria Isis Fernandes Filho",70891741022,"1970-04-29 00:00:00",Cajamar,Goiás,21620-626
+69,"Paulo da Conceição",32223312023,"1989-09-20 00:00:00","Piedade de Ponte Nova",Maranhão,33945-667
+70,"Letícia da Cunha",49768660671,"1964-12-01 00:00:00","Armação de Búzios",Paraná,82543-853
+71,"Enzo Miguel Ramos",64368959360,"2000-01-01 00:00:00","Arroio do Meio",Acre,12838-593
+72,"Luna Ouriques",58820114284,"1998-04-23 00:00:00",Serra,"Rio Grande do Norte",77970-973
+73,"Elisa Batista",47548826444,"1986-11-28 00:00:00",Jeremoabo,Paraná,02840-760
+74,"Srta. Malu da Fonseca",53656232136,"2000-02-20 00:00:00",Itaquaquecetuba,Acre,38154-329
+75,"Marcela Bouças",74668375331,"1961-02-26 00:00:00","Santa Cruz do Arari",Tocantins,74224-128
+76,"Catarina Crespo",26508386166,"1982-09-25 00:00:00",Montanha,"Espírito Santo",88348-675
+77,"Mariah Grotas",38472663888,"1997-10-16 00:00:00",Irauçuba,Alagoas,29757-297
+78,"Davi Modesto",61402475068,"1964-04-19 00:00:00","São João Nepomuceno","Rio de Janeiro",69221-876
+79,"João Miguel Soares Jr.",61095454952,"1995-10-18 00:00:00","Presidente Castelo Branco",Piauí,54852-335
+80,"Juliana Crespo",41408368072,"1957-09-06 00:00:00",Quiterianópolis,Paraíba,75807-370
+81,"Francisca da Mata Jr.",78081844042,"1972-07-31 00:00:00",Guabiruba,Sergipe,33025-020
+82,"Dra. Manuela Xavier",63626476575,"1975-07-20 00:00:00",Cipotânea,"São Paulo",27784-726
+83,"Sra. Isabella Longuinho",61659754268,"1961-04-16 00:00:00",Itanhaém,Pernambuco,95223-342
+84,"Luiza Espinhosa",81256405243,"1986-02-09 00:00:00","São Félix de Balsas","Mato Grosso",16780-367
+85,"Yago Domingues",19690646236,"1992-05-21 00:00:00","Cachoeira de Pajeú",Goiás,44536-625
+86,"Paulo Datena Filho",14144271122,"2001-07-26 00:00:00",Guaimbê,"Mato Grosso do Sul",04051-038
+87,"Davi Luca Rameira Jr.",36354102053,"1994-04-26 00:00:00","Boa Vista das Missões",Rondônia,84219-540
+88,"Sr. Benjamin Carvalheira",45925261821,"2001-11-23 00:00:00",Natércia,Bahia,63404-628
+89,"Vinícius Nunes",82640937938,"1966-01-15 00:00:00",Araguainha,"São Paulo",26996-806
+90,"Ana Laura Porteira",87322248666,"1968-08-21 00:00:00",Salvador,"Minas Gerais",27885-158
+91,"Anthony Coutinho",96077705429,"1965-02-06 00:00:00","São Félix do Xingu","São Paulo",39048-896
+92,"Mathias Lessa",51110702574,"1960-12-28 00:00:00","Santana do Deserto",Pará,43929-427
+93,"Francisca Castelo",97314851105,"1980-11-19 00:00:00",Nordestina,Maranhão,47518-482
+94,"Louise Camacho",81824485727,"1994-12-05 00:00:00",Marliéria,"Rio Grande do Sul",54984-151
+95,"Leonardo Guterres",84240766940,"1997-01-12 00:00:00","Vista Serrana",Amazonas,97985-945
+96,"Catarina Mendanha Neto",66547261362,"2001-05-08 00:00:00",Maracanaú,Maranhão,27169-201
+97,"Mércia Araújo",18163660503,"1980-04-01 00:00:00","Santa Amélia","São Paulo",11109-026
+98,"Paulo da Costa Neto",60068891868,"1955-08-26 00:00:00","Limeira do Oeste",Maranhão,32984-369
+99,"Leonardo da Barra",13202751570,"1969-10-05 00:00:00","Bom Jesus do Tocantins",Goiás,71505-731
+100,"João Guilherme Simões",88325718161,"1972-09-05 00:00:00","Rio Verde",Ceará,94994-924
+101,"Murilo Cabreira",53644856027,"1958-08-12 00:00:00","Dom Pedrito",Bahia,75994-489
+102,"Leonardo da Rosa",66786960865,"1988-12-22 00:00:00",Itá,Roraima,35094-719
+103,"Ofélia Castro Filho",82289013648,"1996-07-04 00:00:00","Lago dos Rodrigues",Paraíba,77781-148
+104,"Stella Garcez",94572538881,"1995-12-29 00:00:00","São João da Boa Vista",Piauí,50206-801
+105,"Mirella Rameira Filho",43544106650,"1958-01-15 00:00:00","Boqueirão do Leão","Espírito Santo",12750-848
+106,"Dra. Carlos Eduardo Vieira",42307794254,"1962-04-24 00:00:00",Cuité,"Espírito Santo",49063-871
+107,"Janaína Aragão",98866335260,"1976-11-18 00:00:00","Santana do Piauí",Rondônia,90033-003
+108,"Levi Alves",3932248463,"1964-11-20 00:00:00",Jussari,"São Paulo",85216-563
+109,"Lavínia da Paz",40554880657,"1960-06-08 00:00:00",Xapuri,Maranhão,43022-082
+110,"Samuel Muniz",2331221475,"1990-03-06 00:00:00","Floresta Azul",Paraíba,71329-984
+111,"Dr. Luan Lessa",13321158508,"1978-09-11 00:00:00",Pavussu,Bahia,19917-187
+112,"Breno Reis Jr.",67495457052,"1977-01-31 00:00:00",Maracanaú,"São Paulo",61788-678
+113,"João Guilherme Domingues",13875510660,"1978-06-01 00:00:00",Paquetá,"Rio Grande do Sul",78949-961
+114,"Marcia da Cunha",106855404,"1989-06-13 00:00:00","Alfredo Vasconcelos",Rondônia,66156-065
+115,"Camila de Quadros",71928322264,"1968-02-26 00:00:00","Canaã dos Carajás",Pará,28397-170
+116,"Felipe Antunes",13409620500,"1983-02-09 00:00:00","Dona Euzébia",Paraíba,96391-364
+117,"Lavínia Vimaranes",50716578398,"1958-08-09 00:00:00",Guaiúba,Bahia,41002-814
+118,"Janaína da Penha",80730807437,"1977-06-15 00:00:00","São Gonçalo dos Campos",Goiás,29788-598
+119,"Isaac Monteira",28231022271,"1972-11-11 00:00:00",Ibiapina,"Mato Grosso do Sul",30766-110
+120,"André de Quadros",79643902250,"1977-06-14 00:00:00","Ponte Serrada",Roraima,63740-351
+121,"Kauê Menendes Neto",48078884337,"1963-11-18 00:00:00","Godoy Moreira",Tocantins,35973-592
+122,"João Oliveira",46357587314,"1965-06-27 00:00:00",Araçatuba,Amazonas,84292-349
+123,"Luiz Felipe Aparício",15023745391,"1963-09-19 00:00:00",Mazagão,Acre,59515-990
+124,"Enrico Menendes",91644046740,"2000-09-30 00:00:00",Cristianópolis,"Mato Grosso",84220-855
+125,"Emanuelly das Neves",86124793056,"1982-06-28 00:00:00","Pântano Grande",Amazonas,33148-320
+126,"Lucca Carvalheira Filho",28503224749,"1985-12-06 00:00:00",Agudo,Alagoas,28776-010
+127,"Vitória de Sá",17675173163,"1972-12-31 00:00:00","Caldas Brandão","Minas Gerais",73719-972
+128,"Ayla Resende",30843700085,"1993-05-03 00:00:00",Ibirité,Bahia,24261-374
+129,"Benjamin Antunes Neto",11041531367,"1968-06-13 00:00:00","Vila Valério","Minas Gerais",73017-416
+130,"Francisca Peres",50062523724,"1978-07-24 00:00:00","Presidente Castelo Branco",Tocantins,61958-483
+131,"Miguel de Borba",6535800871,"1983-06-19 00:00:00",Sengés,"Rio de Janeiro",56614-098
+132,"Thomas Jaques Neto",52718124816,"2000-06-30 00:00:00",Natércia,Goiás,25978-328
+133,"Pietra Macedo",58274431541,"1965-05-07 00:00:00",Laguna,Acre,66157-440
+134,"Luan da Silva",67105380309,"1980-05-17 00:00:00","Nova Redenção",Goiás,77830-826
+135,"Maria Fernanda da Fonseca",95008786830,"1977-01-31 00:00:00","Pão de Açúcar","Minas Gerais",59827-399
+136,"Nataniel Brites",67569841734,"1982-06-29 00:00:00",Uberlândia,"Mato Grosso",12372-623
+137,"Liz Santana",25630260186,"1993-07-27 00:00:00","Cruz do Espírito Santo",Paraíba,64056-340
+138,"Enzo Solimões",32269618723,"1990-09-28 00:00:00","Lagoa Bonita do Sul","Distrito Federal",78821-021
+139,"Yuri Aguiar",50494131738,"1989-10-26 00:00:00","Gastão Vidigal","São Paulo",18281-292
+140,"Erick Ferraço",40575250593,"1958-01-09 00:00:00","Cafezal do Sul",Maranhão,48386-419
+141,"Arthur Henrique Pimenta Neto",7085565354,"1956-07-31 00:00:00","Nossa Senhora Aparecida",Pernambuco,12942-864
+142,"Melissa Hernandes",82772288329,"1959-09-17 00:00:00",Sabino,Roraima,36676-484
+143,"Nathan Moraes",68487816642,"1990-08-17 00:00:00","São Félix",Amazonas,44989-648
+144,"Ruan Soares",12410075658,"1965-08-31 00:00:00","Canaã dos Carajás",Amazonas,14296-898
+145,"Lara Arantes",55282217511,"1986-04-02 00:00:00",Arraias,"Rio de Janeiro",98221-555
+146,"Yuri Marcondes",36940677270,"1976-12-01 00:00:00","Porto Estrela",Bahia,57805-696
+147,"Djalma Banheira Neto",92287625628,"1997-08-03 00:00:00","Maripá de Minas",Maranhão,46139-342
+148,"Félix Veloso",86557040645,"1965-12-06 00:00:00","Santa Cruz do Rio Pardo","Espírito Santo",39328-116
+149,"Sr. Kauê Barbosa",10243807220,"1972-07-01 00:00:00","Atilio Vivacqua",Goiás,61449-023
+150,"Félix Cavalcanti",58836264753,"1965-02-07 00:00:00","Santana do Cariri",Pernambuco,18537-459
+151,"Luiz Gustavo Lopes",770349986,"1986-08-21 00:00:00",Ampére,Piauí,38548-671
+152,"Janaína Teixeira",95936555148,"1959-10-11 00:00:00",Serranos,Rondônia,32815-240
+153,"Luna Junqueira",46173616260,"1998-10-23 00:00:00","Central de Minas","Rio de Janeiro",21525-596
+154,"João Victor Bernardes",48779843956,"1955-02-21 00:00:00","Santa Teresinha",Maranhão,86895-934
+155,"Srta. Isadora Roseira",76516629004,"1992-12-05 00:00:00",Sanclerlândia,"Minas Gerais",07812-153
+156,"Ana Júlia Caldeira",74235810760,"1978-04-23 00:00:00",Tomazina,Acre,08091-208
+157,"Malu Sais",56072477616,"1968-05-25 00:00:00","Bonfinópolis de Minas",Pará,22243-996
+158,"Dra. Beatriz Solimões",52869594424,"2001-10-17 00:00:00",Mariluz,Roraima,47654-491
+159,"Dra. João Felipe Silveira",10802551566,"1980-01-20 00:00:00",Silveiras,Sergipe,25193-399
+160,"Beatriz Figueira",62854970493,"1958-03-20 00:00:00",Colíder,Amazonas,96743-425
+161,"Davi Lucas Viveiros",72563336638,"1959-11-17 00:00:00",Barreira,Alagoas,95939-623
+162,"Pedro Arriaga Neto",52345538954,"1983-05-21 00:00:00","Santa Quitéria",Goiás,22012-103
+163,"Davi Luiz Taveira Neto",63230363725,"1988-01-18 00:00:00","Cascalho Rico",Pernambuco,36386-273
+164,"Gael da Aldeia",46029324330,"1977-10-15 00:00:00","Dom Viçoso","Rio de Janeiro",87055-516
+165,"Roberta Figueira",58666760382,"1988-01-22 00:00:00",Tailândia,Goiás,69077-253
+166,"Srta. Elisa Jaques",35453883687,"1971-09-11 00:00:00","Alto Longá","Espírito Santo",70214-271
+167,"Cecília Beltrão Filho",18222095406,"1970-10-15 00:00:00","Delfim Moreira",Pará,43166-381
+168,"Igor Beltrão",40647439386,"1980-11-11 00:00:00",Uirapuru,"São Paulo",33236-889
+169,"Theo Figueira Filho",26502802458,"2001-10-20 00:00:00",Altinho,"Santa Catarina",16508-933
+170,"Lorena Nascimento",30504281648,"1989-11-14 00:00:00","Campo Alegre","Espírito Santo",34904-806
+171,"Maria Sophia Bouças",94814563492,"1988-11-13 00:00:00","Manoel Ribas",Piauí,46729-050
+172,"Dr. Warley da Aldeia",18402452785,"2001-01-09 00:00:00","Campo Novo de Rondônia",Pará,04631-082
+173,"Yuri da Penha",5169447790,"1980-09-16 00:00:00","São Francisco de Goiás",Amapá,09102-620
+174,"Elísio de Assunção",87508533058,"1975-10-27 00:00:00",Embu-Guaçu,Paraíba,78987-985
+175,"Sr. Luan Bonfim",77080070877,"1956-09-29 00:00:00",Caconde,"São Paulo",43478-626
+176,"Enzo Thiago Marcondes",21079187026,"1997-03-21 00:00:00","Morro Reuter","Minas Gerais",54421-860
+177,"Benício Ximenes Neto",3610648195,"1999-02-01 00:00:00",Rodeio,Pará,81362-068
+178,"Dra. Eloah da Aldeia",66585922573,"1989-10-02 00:00:00",Barracão,Acre,58869-539
+179,"Ana Lívia Bittencourt",46704646367,"1981-11-12 00:00:00","Santo Antônio dos Milagres","Rio Grande do Norte",11255-245
+180,"Dra. Enzo Rolim",74745510573,"1995-10-29 00:00:00",Pacajus,"Distrito Federal",06691-977
+181,"Frederico Modesto Neto",72613458742,"2000-12-17 00:00:00",União,Rondônia,96069-619
+182,"Sr. Fernanda da Cruz",25084874839,"1954-02-07 00:00:00",Rodeio,Paraná,26049-694
+183,"Vitor Hugo Velasques",37883673673,"1956-03-18 00:00:00","Rio Quente","Mato Grosso",57942-626
+184,"Lucas Morais",17470146681,"2000-11-24 00:00:00","Barra do Jacaré","Distrito Federal",51646-663
+185,"Augusto Ambrósio",72746337030,"1980-05-27 00:00:00","Espírito Santo",Pernambuco,62457-631
+186,"Nicole do Prado",74067047088,"1972-11-05 00:00:00",Ibirapuã,Rondônia,68284-680
+187,"Otávio Ximenes",50235551758,"1994-03-26 00:00:00",Croatá,Maranhão,84941-033
